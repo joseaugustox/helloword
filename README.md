@@ -1,3 +1,3 @@
 # helloword
-Praticando no GitHub
+Praticando no GitHub.
 Olá, eu sou josé.
